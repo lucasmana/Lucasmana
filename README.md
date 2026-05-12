@@ -67,30 +67,25 @@ Gosto de construir **sistemas corporativos robustos**, **APIs RESTful bem estrut
 --- 
 
 ## `$ ls --projetos/`
- 
-### 🗂️ Projetos em Destaque
- 
-| Projeto | Tecnologias | Descrição |
-|--------|-------------|-----------|
-| [**Desafio-Shopping**](https://github.com/lucasmana/Desafio-Shopping) | `JavaScript` | Sistema de e-commerce desafiador |
-| [**Cardapio**](https://github.com/lucasmana/Cardapio) | `JavaScript` | Sistema de cardápio digital |
-| [**homens_de_terno**](https://github.com/lucasmana/homens_de_terno-) | `JavaScript` | Projeto de E-commerce para loja |
-| [**Sistema-Bancario**](https://github.com/lucasmana/Sistema-Bancario-) | `JavaScript` | Sistema bancário completo |
-| [**exercicios**](https://github.com/lucasmana/exercicios) | `JavaScript` | Exercícios e estudos de Backend |
- 
+## 🚀 Projetos em Destaque
+
+[![GitHub](https://img.shields.io/badge/SISTEMA%20CORPORATIVO%20OPERACIONAL-444?style=for-the-badge&logo=github&logoColor=white&labelColor=888)](https://github.com/lucasmana/Top_Limp1) [![Repositório](https://img.shields.io/badge/REPOSITÓRIO-000?style=for-the-badge)](https://github.com/lucasmana/Top_Limp1)
+
+Solução full stack desenvolvida com (**Node.js**, **React**, **Express**, **MongoDB**). Interface estilizada com **CSS** e **Bootstrap**, focada na automação de processos internos e gestão operacional eficiente.
+
 ---
 
+[![GitHub](https://img.shields.io/badge/IARA%20V2-444?style=for-the-badge&logo=github&logoColor=white&labelColor=888)](https://github.com/iaraV2/iaraV2) [![Repositório](https://img.shields.io/badge/REPOSITÓRIO-000?style=for-the-badge)](https://github.com/iaraV2/iaraV2)
 
+Aplicaçãode um sistema para acessibilidade digital com inteligẽncia artificial. Migração completa de arquitetura Front-end. Substituição do React para uma nova versão com Vue.js e estilizada com Tailwind CSS, Uso do Langchain como forma automatizada de chatbot.
 
+---
 
+[![GitHub](https://img.shields.io/badge/MINI%20SISTEMA%20DE%20CARDAPIO-444?style=for-the-badge&logo=github&logoColor=white&labelColor=888)](https://github.com/lucasmana/Cardapio) [![Repositório](https://img.shields.io/badge/REPOSITÓRIO-000?style=for-the-badge)](https://github.com/lucasmana/Cardapio)
 
+Desenvolvimento de um sistema de cardápio digital dinâmico, permitindo a visualização intuitiva de produtos e categorias para otimização do atendimento e experiência do usuário.
 
-
-
-
-
-
-
+---
 
 ## `$ contact --open`
 
@@ -104,125 +99,4 @@ Gosto de construir **sistemas corporativos robustos**, **APIs RESTful bem estrut
 </div>
 
  
-
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MongoDB" 
-    title="MongoDB"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="XAMPP" 
-    title="XAMPP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
-
-
-
-
-
-
 
