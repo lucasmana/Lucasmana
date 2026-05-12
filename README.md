@@ -48,7 +48,7 @@ Gosto de construir **sistemas corporativos robustos**, **APIs RESTful bem estrut
 
 </div>
 
-## `$ contact --open`
+---
 
 ## `$ contact --open`
 
@@ -61,7 +61,6 @@ Gosto de construir **sistemas corporativos robustos**, **APIs RESTful bem estrut
 
 </div>
 
----
  
 ---
 <p align="left">
