@@ -5,10 +5,47 @@
 </div>
 
 **`Full Stack Developer`**
+## `$ cat sobre_mim.txt`
+ 
+Tenho **20 anos**, sou desenvolvedor **Full Stack** e estou no **5º e último período de ADS** pela Uniamerica-Descomplica. Apaixonado por tecnologia desde cedo, fui fisgado pelo poder de entender como sistemas e aplicações funcionam — e desde então não parei mais.
+ 
+Gosto de construir **sistemas corporativos robustos**, **APIs RESTful bem estruturadas** e soluções que realmente resolvem problemas reais. Trabalho como **Freelancer** e já tive experiência profissional como **Jovem Aprendiz na Rede Brasil de Comunicação** por 1 ano, onde desenvolvi aplicações, realizei testes, correções e manutenção de sistemas externos.
+ 
+> **Como penso sobre código:** Um bom software começa antes do primeiro `git commit`. Prefiro tempo no planejamento da arquitetura a horas de refatoração depois.
 
-Olá, me chamo Lucas Manassés, tenho 20 anos de idade e sou desenvolvedor Full Stack. Estudante de Análise e Desenvolvimento de Sistemas pela UNIAMÉRICA/Descomplica. Facinado por tecnologia, especificamente por linguagens de programação, o que despertou em mim a curiosidade de entender como sistemas e aplicações funcionam.
-Sou uma pessoa curiosa, com facilidade para aprender e grande vontade de adquirir novos conhecimentos. Gosto de desafios, de explorar novas tecnologias e estou constantemente buscando evoluir, tanto pessoal quanto profissionalmente, em desenvolvimento de software.
+---
+ 
+## `$ ls --skills`
+ 
+### 🖥️ Frontend
+<div align="left">
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+ 
+</div>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+---
 <p align="left">
     <a href="https://www.instagram.com/_lucas_manasses/">
         <img 
