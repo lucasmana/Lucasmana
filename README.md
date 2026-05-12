@@ -1,6 +1,6 @@
 # 👨🏻‍💻Lucas Manassés
 
-**`Desenvolvedor Back-end`**
+**`Full Stack Developer`**
 
 Olá, me chamo Lucas Manassés, tenho 20 anos de idade e sou desenvolvedor Full Stack. Estudante de Análise e Desenvolvimento de Sistemas pela UNIAMÉRICA/Descomplica. Facinado por tecnologia, especificamente por linguagens de programação, o que despertou em mim a curiosidade de entender como sistemas e aplicações funcionam.
 Sou uma pessoa curiosa, com facilidade para aprender e grande vontade de adquirir novos conhecimentos. Gosto de desafios, de explorar novas tecnologias e estou constantemente buscando evoluir, tanto pessoal quanto profissionalmente, em desenvolvimento de software.
