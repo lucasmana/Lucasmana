@@ -1,12 +1,8 @@
 <div align="center">
-<!-- BANNER ANIMADO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0800,30:7a2d00,60:d45a00,100:ff8c00&height=220&section=header&text=Full%20Stack%20Developer&fontSize=52&fontColor=ffb347&fontAlignY=42&desc=%3C%20building%20things%20that%20matter%20%2F%3E&descColor=ffd59e&descAlignY=62&animation=fadeIn" />
+  <a href="SEU_LINK_AQUI">
+    <img src="https://i.postimg.cc/25ck5bx0/github.png" alt="Banner Lucas Manassés" width="100%">
+  </a>
 </div>
-<div align="center">
-bashlucasmana@dev:~$ whoami
-> Full Stack Developer | ADS @ Uniamerica-Descomplica | Recife - PE
-</div>
-# 👨🏻‍💻Lucas Manassés
 
 **`Full Stack Developer`**
 
