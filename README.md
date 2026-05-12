@@ -50,6 +50,21 @@ Gosto de construir **sistemas corporativos robustos**, **APIs RESTful bem estrut
 
 ---
 
+---
+ 
+## `$ cat experiencia.log`
+ 
+```
+[2024-2025] Rede Brasil de Comunicação — Jovem Aprendiz (Dev)
+  ✔ Desenvolvimento de aplicações e sistemas externos
+  ✔ Testes, correções e manutenção de código legado
+  ✔ Integração de sistemas e suporte técnico
+ 
+[Atual] Residente do BFD na Aponti — Full Stack Developer
+  ✔ Desenvolvimento de MVP de Inteligência Artificial chamada IAra
+  ✔ Construção de APIs RESTful
+  ✔ Projetos Web e Mobile  completos (frontend + backend)
+```
 ## `$ contact --open`
 
 <div align="center">
@@ -62,39 +77,6 @@ Gosto de construir **sistemas corporativos robustos**, **APIs RESTful bem estrut
 </div>
 
  
----
-<p align="left">
-    <a href="https://www.instagram.com/_lucas_manasses/">
-        <img 
-            alt="instagram" 
-            title="siga-me no instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/Instagram-8A2BE2?logo=instagram&logoColor=white&style=for-the-badge"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/lucasmanasses/">
-        <img 
-            alt="Linkedin" 
-            title="Me siga no Linkedin" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-236ad3?style=for-the-badge&logo=linkedin&logoColor=white&color=236ad3"
-        />
-    </a>
-    <a href="https://effortless-choux-0aef4e.netlify.app/">
-        <img 
-            alt="portfolio" 
-            title="Acesse o meu Portfólio" 
-            src="https://custom-icon-badges.demolab.com/badge/Portfólio-E1AD0E?style=for-the-badge&logo=briefcase&logoColor=white&color=E1AD0E"
-        />
-    </a>
-     <a href="https://github.com/lucasmana">
-        <img 
-            alt="GitHub" 
-            title="siga-me no Github" 
-            src="https://custom-icon-badges.demolab.com/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white"
-        />
-    </a> 
-</p>
-
----
 
 
 <img 
