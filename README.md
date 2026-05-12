@@ -15,10 +15,12 @@ Gosto de construir **sistemas corporativos robustos**, **APIs RESTful bem estrut
 
 ---
  
-## `$ ls --skills`
- 
+# `$ ls --skills`
+
 ### 🖥️ Frontend
+
 <div align="left">
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -26,13 +28,50 @@ Gosto de construir **sistemas corporativos robustos**, **APIs RESTful bem estrut
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
- 
+
 </div>
 
+### ⚙️ Backend
 
+<div align="left">
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![CORS](https://img.shields.io/badge/CORS-orange?style=for-the-badge&logo=security&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+</div>
 
+### 🗄️ Banco de Dados & DevOps
+
+<div align="left">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+
+</div>
+
+## `$ contact --open`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-black?style=for-the-badge&logo=vercel&logoColor=white)](https://p0rtf0li0d3luc4s.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--manassés-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-manasses)
+[![GitHub](https://img.shields.io/badge/GitHub-lucasmana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasmana)
+[![Instagram](https://img.shields.io/badge/Instagram-_lucas__manasses-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_lucas_manasses)
+
+</div>
+
+---
 
 
 
