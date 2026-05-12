@@ -86,6 +86,21 @@ Aplicaçãode um sistema para acessibilidade digital com inteligẽncia artifici
 Desenvolvimento de um sistema de cardápio digital dinâmico, permitindo a visualização intuitiva de produtos e categorias para otimização do atendimento e experiência do usuário.
 
 ---
+## `$ cat foco_atual.txt`
+ 
+```javascript
+const focoAtual = {
+  estudando: ["ADS - 5º Período", "Arquitetura de Software", "APIs RESTful"],
+  construindo: ["Sistemas Corporativos", "Projetos Freelancer"],
+  aprimorando: ["Docker", "TypeScript avançado", "Python para automação"],
+  aberto_para: ["Oportunidades CLT", "Projetos Freelancer", "Networking"]
+};
+```
+ 
+---
+
+
+
 
 ## `$ contact --open`
 
@@ -97,6 +112,15 @@ Desenvolvimento de um sistema de cardápio digital dinâmico, permitindo a visua
 [![Instagram](https://img.shields.io/badge/Instagram-_lucas__manasses-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_lucas_manasses)
 
 </div>
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8c00,30:d45a00,60:7a2d00,100:1a0800&height=120&section=footer&animation=fadeIn"/>
+</div>
+
+<div align="center">
+
+```bash
+lucasmana@dev:~$ echo "Obrigado pela visita! Let's build something great 🚀"
 
  
 
