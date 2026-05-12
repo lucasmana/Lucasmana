@@ -49,8 +49,6 @@ Gosto de construir **sistemas corporativos robustos**, **APIs RESTful bem estrut
 </div>
 
 ---
-
----
  
 ## `$ cat experiencia.log`
  
@@ -60,11 +58,40 @@ Gosto de construir **sistemas corporativos robustos**, **APIs RESTful bem estrut
   ✔ Testes, correções e manutenção de código legado
   ✔ Integração de sistemas e suporte técnico
  
-[Atual] Residente do BFD na Aponti — Full Stack Developer
+[Atual]   Residente do BFD na Aponti — Full Stack Developer
   ✔ Desenvolvimento de MVP de Inteligência Artificial chamada IAra
   ✔ Construção de APIs RESTful
   ✔ Projetos Web e Mobile  completos (frontend + backend)
 ```
+
+--- 
+
+## `$ ls --projetos/`
+ 
+### 🗂️ Projetos em Destaque
+ 
+| Projeto | Tecnologias | Descrição |
+|--------|-------------|-----------|
+| [**Desafio-Shopping**](https://github.com/lucasmana/Desafio-Shopping) | `JavaScript` | Sistema de e-commerce desafiador |
+| [**Cardapio**](https://github.com/lucasmana/Cardapio) | `JavaScript` | Sistema de cardápio digital |
+| [**homens_de_terno**](https://github.com/lucasmana/homens_de_terno-) | `JavaScript` | Projeto de E-commerce para loja |
+| [**Sistema-Bancario**](https://github.com/lucasmana/Sistema-Bancario-) | `JavaScript` | Sistema bancário completo |
+| [**exercicios**](https://github.com/lucasmana/exercicios) | `JavaScript` | Exercícios e estudos de Backend |
+ 
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## `$ contact --open`
 
 <div align="center">
