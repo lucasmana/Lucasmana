@@ -1,3 +1,12 @@
+<div align="center">
+<!-- BANNER ANIMADO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:00d4ff&height=200&section=header&text=Lucas%20Manassés&fontSize=50&fontColor=00d4ff&fontAlignY=38&desc=Full%20Stack%20Developer&descColor=a0b4c8&descAlignY=58&animation=fadeIn" />
+</div>
+<div align="center">
+bashlucasmana@dev:~$ whoami
+> Full Stack Developer | ADS @ Uniamerica-Descomplica | Recife - PE
+</div>
+
 # 👨🏻‍💻Lucas Manassés
 
 **`Full Stack Developer`**
