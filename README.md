@@ -77,7 +77,7 @@ Solução full stack desenvolvida com (**Node.js**, **React**, **Express**, **Mo
 
 [![GitHub](https://img.shields.io/badge/IARA%20V2-444?style=for-the-badge&logo=github&logoColor=white&labelColor=888)](https://github.com/iaraV2/iaraV2) [![Repositório](https://img.shields.io/badge/REPOSITÓRIO-000?style=for-the-badge)](https://github.com/iaraV2/iaraV2)
 
-Aplicaçãode um sistema para acessibilidade digital com inteligẽncia artificial. Migração completa de arquitetura Front-end. Substituição do React para uma nova versão com Vue.js e estilizada com Tailwind CSS, Uso do Langchain como forma automatizada de chatbot.
+Implementação de uma solução de acessibilidade digital baseada em inteligência artificial. Refatoração total da arquitetura do front-end, migrando do React para uma nova versão desenvolvida com Vue.js e estilizada com Tailwind CSS. Adoção do LangChain para automatizar o funcionamento do chatbot.
 
 ---
 
